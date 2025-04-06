@@ -1,0 +1,16 @@
+dana_kavurma
+zeytin_yagi
+lt
+0.2
+dana_eti
+lt
+1
+~
+mercimek_corbasi
+mercimek
+kg
+0.100000
+tuz
+kg
+0.010000
+~
